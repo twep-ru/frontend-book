@@ -2,13 +2,6 @@
 
 * [Добро пожаловать](README.md)
 
-## Basics
-
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
-
 ## JavaScript
 
 * [Первый шаг к оживлению страниц](javascript/pervyi-shag-k-ozhivleniyu-stranic.md)
