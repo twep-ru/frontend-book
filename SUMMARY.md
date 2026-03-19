@@ -5,6 +5,9 @@
 ## JavaScript
 
 * [Первый шаг](javascript/pervyi-shag.md)
+* [Переменные](javascript/peremennye.md)
+* [Типы данных](javascript/tipy-dannykh.md)
+* [Математика](javascript/matematika.md)
 * [Функции, часть 1](javascript/funkcii-chast-1.md)
 * [Функции, часть 2](javascript/funkcii-chast-2.md)
 * [Объекты, часть 1](javascript/obekty-chast-1.md)
