@@ -1,6 +1,6 @@
 ---
 description: Управление событиями является основой интерактивности любого веб-приложения.
-icon: calendar-days
+icon: computer-mouse-scrollwheel
 ---
 
 # Продвинутая работа с событиями
