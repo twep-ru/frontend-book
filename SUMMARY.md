@@ -4,7 +4,7 @@
 
 ## JavaScript
 
-* [Первый шаг](javascript/pervyi-shag.md)
+* [Введение](javascript/vvedenie.md)
 * [Переменные](javascript/peremennye.md)
 * [Типы данных](javascript/tipy-dannykh.md)
 * [Математика](javascript/matematika.md)
@@ -26,9 +26,9 @@
 * [Обработка ошибок](javascript/obrabotka-oshibok.md)
 * [Асинхронность](javascript/asinkhronnost.md)
 * [Модули](javascript/moduli.md)
-* [BOM и DOM](javascript/bom-i-dom.md)
-* [Браузерный JavaScript, часть 1](javascript/brauzernyi-javascript-chast-1.md)
-* [Браузерный JavaScript, часть 2](javascript/brauzernyi-javascript-chast-2.md)
-* [Манипуляция DOM](javascript/manipulyaciya-dom.md)
+* [DOM и BOM](javascript/dom-i-bom.md)
+* [DOM-элементы](javascript/dom-elementy.md)
+* [Размеры и координаты DOM-элементов](javascript/razmery-i-koordinaty-dom-elementov.md)
+* [DOM-манипуляции](javascript/dom-manipulyacii.md)
 * [Браузерные события](javascript/brauzernye-sobytiya.md)
 * [Продвинутая работа с событиями](javascript/prodvinutaya-rabota-s-sobytiyami.md)
